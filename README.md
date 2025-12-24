@@ -9,27 +9,37 @@ The objective is to transform raw IPL datasets into interactive dashboards and m
 
 🚀 Key Features:
 
-🔹 Team Performance Analysis
-    * Total matches played and won
+🔹 Team Performance Analysis:
+
+   * Total matches played and won
     
-    * Team-wise win percentage
+   * Team-wise win percentage
     
-    * Season-wise performance comparison
+   * Season-wise performance comparison
 
-🔹 Player Performance Analysis
-    Top run scorers
-    Top wicket takers
-    Consistent players across seasons
+🔹 Player Performance Analysis:
 
-🔹 Match & Toss Insights
-    Toss decision vs match result analysis
-    Impact of batting first vs chasing
-    Match outcome trends
+   * Top run scorers
 
-🔹 Venue & Season Analysis
-    Venue-wise match distribution
-    Home vs away performance
-    Season-wise IPL trends
+   * Top wicket takers
+
+   * Consistent players across seasons
+
+🔹 Match & Toss Insights:
+
+   * Toss decision vs match result analysis
+   
+   * Impact of batting first vs chasing
+   
+   * Match outcome trends
+
+🔹 Venue & Season Analysis:
+
+   * Venue-wise match distribution
+     
+   * Home vs away performance
+
+   * Season-wise IPL trends
 
 🛠 Tools & Technologies Used
   * Power BI – Interactive dashboards & data modeling
