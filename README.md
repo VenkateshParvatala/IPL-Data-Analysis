@@ -7,11 +7,14 @@ This project presents an IPL Analytics Dashboard built using Power BI and Python
 
 The objective is to transform raw IPL datasets into interactive dashboards and meaningful insights to support data-driven analysis.
 
-🚀 Key Features
+🚀 Key Features:
+
 🔹 Team Performance Analysis
-    Total matches played and won
-    Team-wise win percentage
-    Season-wise performance comparison
+    * Total matches played and won
+    
+    * Team-wise win percentage
+    
+    * Season-wise performance comparison
 
 🔹 Player Performance Analysis
     Top run scorers
