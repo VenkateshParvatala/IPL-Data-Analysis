@@ -68,24 +68,31 @@ The objective is to transform raw IPL datasets into interactive dashboards and m
   * Average Score per Match
   * Toss Win Impact %
 
-📊 Key Insights
-  Teams winning the toss and choosing to field first have a higher win percentage
-  Certain venues strongly favor chasing teams
-  Consistent players significantly influence season outcomes
-  Home ground advantage plays a major role in team success
-  Win patterns vary clearly across seasons and venues
+📊 Key Insights:
 
-📂 Dataset
+  * Teams winning the toss and choosing to field first have a higher win percentage
+  * Certain venues strongly favor chasing teams
+  * Consistent players significantly influence season outcomes
+  * Home ground advantage plays a major role in team success
+  * Win patterns vary clearly across seasons and venues
+
+📂 Dataset:
+
 Due to GitHub file size limitations, large IPL datasets are hosted externally.
+
 Full Dataset (CSV): <https://drive.google.com/file/d/1qsYh0m2lslkLSzVY3o9_35OH3O3fS4jd/view?usp=sharing>
 
-🔮 Future Enhancements
-Match outcome prediction using ML
-Player performance forecasting
-Advanced DAX calculations
-SQL integration for live data
+🔮 Future Enhancements:
 
-👨‍💻 About the Creator
+* Match outcome prediction using ML
+* Player performance forecasting
+* Advanced DAX calculations
+* SQL integration for live data
+
+👨‍💻 About the Creator:
+
 **Venkatesh Parvatala**
+
 Power BI Developer | Data Analyst
+
 Passionate about converting sports data into meaningful insights.
